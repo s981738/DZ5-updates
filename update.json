@@ -3,10 +3,10 @@
     "packageType":  "zip",
     "mainExe":  "DZ5.exe",
     "stable":  {
-                   "version":  "1.0.0.9",
-                   "downloadUrl":  "https://github.com/s981738/DZ5-updates/releases/download/v1.0.0.9/DZ5-1.0.0.9.zip",
-                   "sha256":  "74E54BAFFA985A2A993FED32108E4CAF333546BFB23F0F860AE0B71E57FF8521",
-                   "notes":  "題框被特效短暫遮擋時繼續取樣到目標秒數（已收 20 張以上容許連續 6 次漏判）",
+                   "version":  "1.0.0.10",
+                   "downloadUrl":  "https://github.com/s981738/DZ5-updates/releases/download/v1.0.0.10/DZ5-1.0.0.10.zip",
+                   "sha256":  "0DF5A2A9BCB8EF6AD33D8C84E6D1B32B732E2B408B8190C0730224CC15563F6E",
+                   "notes":  "修正「來源」標籤文字壓到「影片測試」按鈕",
                    "mandatory":  false
                }
 }
