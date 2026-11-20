@@ -3,10 +3,10 @@
     "packageType":  "zip",
     "mainExe":  "DZ5.exe",
     "stable":  {
-                   "version":  "1.0.0.6",
-                   "downloadUrl":  "https://github.com/s981738/DZ5-updates/releases/download/v1.0.0.6/DZ5-1.0.0.6.zip",
-                   "sha256":  "1940BA6DEBA0DF5556369C53CBDCBDC826126AF199B4BE65E97ACD1C7390E8D1",
-                   "notes":  "拿掉測試版：更新只剩正式版一個按鈕；可從 GitHub 網路更新",
+                   "version":  "1.0.0.7",
+                   "downloadUrl":  "https://github.com/s981738/DZ5-updates/releases/download/v1.0.0.7/DZ5-1.0.0.7.zip",
+                   "sha256":  "DD8A20D6C9179958291B0579D0DED00F9A158F83AD592DCE8C8C863F98B58C99",
+                   "notes":  "更新只有一個按鈕，可從 GitHub 網路更新",
                    "mandatory":  false
                }
 }
