@@ -3,10 +3,10 @@
     "packageType":  "zip",
     "mainExe":  "DZ5.exe",
     "stable":  {
-                   "version":  "1.0.0.7",
-                   "downloadUrl":  "https://github.com/s981738/DZ5-updates/releases/download/v1.0.0.7/DZ5-1.0.0.7.zip",
-                   "sha256":  "DD8A20D6C9179958291B0579D0DED00F9A158F83AD592DCE8C8C863F98B58C99",
-                   "notes":  "更新只有一個按鈕，可從 GitHub 網路更新",
+                   "version":  "1.0.0.8",
+                   "downloadUrl":  "https://github.com/s981738/DZ5-updates/releases/download/v1.0.0.8/DZ5-1.0.0.8.zip",
+                   "sha256":  "53839AF11F43E71B45C62FC997A563511BD98E6D1E2DC64913E31F415C901ADE",
+                   "notes":  "誤判題框（任務提示框、傷害數字）時取消回合、不佔用時間，錄影不保存",
                    "mandatory":  false
                }
 }
