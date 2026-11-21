@@ -3,10 +3,10 @@
     "packageType":  "zip",
     "mainExe":  "DZ5.exe",
     "stable":  {
-                   "version":  "1.0.0.11",
-                   "downloadUrl":  "https://github.com/s981738/DZ5-updates/releases/download/v1.0.0.11/DZ5-1.0.0.11.zip",
-                   "sha256":  "583FBE5413EBB77A8016708585AA52CF44CDA794D183404EB94D09CDD8538740",
-                   "notes":  "擋下打怪傷害數字造成的題框誤判（實心矩形檢查）；新辨識模型（誠實評估 166/229）與合併比例 0.5/0.4/0.1；誤判截圖、新題框複查、完整預熱、回合尾端放寬；安裝程式自動裝 Visual C++ 並可離線安裝",
+                   "version":  "1.0.0.12",
+                   "downloadUrl":  "https://github.com/s981738/DZ5-updates/releases/download/v1.0.0.12/DZ5-1.0.0.12.zip",
+                   "sha256":  "CBAEE1E220016457EDAF0FF9E8F6D2B1C673F0E11BF5020FAB11527CC19E685F",
+                   "notes":  "記錄每一答的結果：每次連拍都存影格（含沒送出的）、資料夾內 answer.json 記錄答案與逐字信心差距、送出後判定答錯／未見新題／未定並寫日誌",
                    "mandatory":  false
                }
 }
