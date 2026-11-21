@@ -3,10 +3,10 @@
     "packageType":  "zip",
     "mainExe":  "DZ5.exe",
     "stable":  {
-                   "version":  "1.0.0.14",
-                   "downloadUrl":  "https://github.com/s981738/DZ5-updates/releases/download/v1.0.0.14/DZ5-1.0.0.14.zip",
-                   "sha256":  "9FAB7F6309A4F2BF08222859CE86184CA5DD7D9173BA947CC2CAF2C0B02D8D10",
-                   "notes":  "DZ5 只讀自己的本地辨識模型（重訓不再影響執行中的 DZ5）；本地辨識啟動失敗時顯示原因",
+                   "version":  "1.0.0.15",
+                   "downloadUrl":  "https://github.com/s981738/DZ5-updates/releases/download/v1.0.0.15/DZ5-1.0.0.15.zip",
+                   "sha256":  "51FA9846D7CAAC39BD2CCBE90BC9FCDEE3F9A09E60C5D7BBCF18CF54E06B5751",
+                   "notes":  "題框短暫認不到後重新出現時，尚無答案的題目會恢復取樣繼續作答；不再反覆開始又停止錄影",
                    "mandatory":  false
                }
 }
