@@ -3,10 +3,10 @@
     "packageType":  "zip",
     "mainExe":  "DZ5.exe",
     "stable":  {
-                   "version":  "1.0.0.12",
-                   "downloadUrl":  "https://github.com/s981738/DZ5-updates/releases/download/v1.0.0.12/DZ5-1.0.0.12.zip",
-                   "sha256":  "CBAEE1E220016457EDAF0FF9E8F6D2B1C673F0E11BF5020FAB11527CC19E685F",
-                   "notes":  "記錄每一答的結果：每次連拍都存影格（含沒送出的）、資料夾內 answer.json 記錄答案與逐字信心差距、送出後判定答錯／未見新題／未定並寫日誌",
+                   "version":  "1.0.0.13",
+                   "downloadUrl":  "https://github.com/s981738/DZ5-updates/releases/download/v1.0.0.13/DZ5-1.0.0.13.zip",
+                   "sha256":  "E0C77DE657A53FC345FDC234307BED4C40CB5ABFB91A7725C8F741E6C0A36782",
+                   "notes":  "彩虹點擊階段改成同一位置連續兩次掃描看到才算，避免換地圖轉場畫面被誤判",
                    "mandatory":  false
                }
 }
