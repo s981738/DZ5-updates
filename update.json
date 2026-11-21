@@ -3,10 +3,10 @@
     "packageType":  "zip",
     "mainExe":  "DZ5.exe",
     "stable":  {
-                   "version":  "1.0.0.13",
-                   "downloadUrl":  "https://github.com/s981738/DZ5-updates/releases/download/v1.0.0.13/DZ5-1.0.0.13.zip",
-                   "sha256":  "E0C77DE657A53FC345FDC234307BED4C40CB5ABFB91A7725C8F741E6C0A36782",
-                   "notes":  "彩虹點擊階段改成同一位置連續兩次掃描看到才算，避免換地圖轉場畫面被誤判",
+                   "version":  "1.0.0.14",
+                   "downloadUrl":  "https://github.com/s981738/DZ5-updates/releases/download/v1.0.0.14/DZ5-1.0.0.14.zip",
+                   "sha256":  "9FAB7F6309A4F2BF08222859CE86184CA5DD7D9173BA947CC2CAF2C0B02D8D10",
+                   "notes":  "DZ5 只讀自己的本地辨識模型（重訓不再影響執行中的 DZ5）；本地辨識啟動失敗時顯示原因",
                    "mandatory":  false
                }
 }
