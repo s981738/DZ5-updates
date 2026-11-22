@@ -3,10 +3,10 @@
     "packageType":  "zip",
     "mainExe":  "DZ5.exe",
     "stable":  {
-                   "version":  "1.0.0.15",
-                   "downloadUrl":  "https://github.com/s981738/DZ5-updates/releases/download/v1.0.0.15/DZ5-1.0.0.15.zip",
-                   "sha256":  "51FA9846D7CAAC39BD2CCBE90BC9FCDEE3F9A09E60C5D7BBCF18CF54E06B5751",
-                   "notes":  "題框短暫認不到後重新出現時，尚無答案的題目會恢復取樣繼續作答；不再反覆開始又停止錄影",
+                   "version":  "1.0.0.16",
+                   "downloadUrl":  "https://github.com/s981738/DZ5-updates/releases/download/v1.0.0.16/DZ5-1.0.0.16.zip",
+                   "sha256":  "E7CEA2B029DACC887165AC3A414F9B9FB02BE3139B781ED9E23D0E8874BB13DB",
+                   "notes":  "倒數判讀不再因單次誤讀砍時限；送出後很快出新題改記未定；連拍弱確認；影格資料夾先標待確認並重試改名；倒數與辨識耗時日誌",
                    "mandatory":  false
                }
 }
