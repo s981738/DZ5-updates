@@ -3,10 +3,10 @@
     "packageType":  "zip",
     "mainExe":  "DZ5.exe",
     "stable":  {
-                   "version":  "1.0.0.18",
-                   "downloadUrl":  "https://github.com/s981738/DZ5-updates/releases/download/v1.0.0.18/DZ5-1.0.0.18.zip",
-                   "sha256":  "E41A0A407C19C507A1408080177DDF7EEB2AC372E2B040DFEEA00A2222B98939",
-                   "notes":  "送出後同一題還在原位（答案沒送進遊戲，例如外部腳本按鍵打斷輸入）就重新點輸入框、清除後重打，最多 2 次；送出後題框留在原位超過 3 秒判定記未定；answer.json 記重打次數",
+                   "version":  "1.0.0.19",
+                   "downloadUrl":  "https://github.com/s981738/DZ5-updates/releases/download/v1.0.0.19/DZ5-1.0.0.19.zip",
+                   "sha256":  "1CB9612161909D51EBD2E9FC85EDDEC7EAABF4F825585FC7F39985A7FE82298A",
+                   "notes":  "答案一律用小寫輸入、打字不按 Shift（遊戲不分大小寫；避免 Shift 經 VNC 切換輸入法導致只打進第一個字）",
                    "mandatory":  false
                }
 }
