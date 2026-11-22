@@ -3,10 +3,10 @@
     "packageType":  "zip",
     "mainExe":  "DZ5.exe",
     "stable":  {
-                   "version":  "1.0.0.20",
-                   "downloadUrl":  "https://github.com/s981738/DZ5-updates/releases/download/v1.0.0.20/DZ5-1.0.0.20.zip",
-                   "sha256":  "0403BF70839F3A22AD0F175B145BC3BE45D74F90C31AF8CAA6BED0461FFEF337",
-                   "notes":  "送出後偵測遊戲的「測謊通過」視窗：判定答對並自動拿掉影格資料夾的「待確認」；倒數改用不限顏色的讀法（各種顏色的倒數都讀得到，讀錯減少）",
+                   "version":  "1.0.0.21",
+                   "downloadUrl":  "https://github.com/s981738/DZ5-updates/releases/download/v1.0.0.21/DZ5-1.0.0.21.zip",
+                   "sha256":  "D1CC3C076B1C597F2DC0AC19BD16DDADD7341BD029C2B4AD711632161C2A36D3",
+                   "notes":  "送出答案後，題框移動超過 12 像素就當成新題（彩虹題答錯後新題只移動約 75 像素時，以前會整題不答）",
                    "mandatory":  false
                }
 }
