@@ -3,10 +3,10 @@
     "packageType":  "zip",
     "mainExe":  "DZ5.exe",
     "stable":  {
-                   "version":  "1.0.0.17",
-                   "downloadUrl":  "https://github.com/s981738/DZ5-updates/releases/download/v1.0.0.17/DZ5-1.0.0.17.zip",
-                   "sha256":  "9E3834A262E1ED01B7DF39F23415533264BD5AE31B74AFAD18970CBD05BC6A67",
-                   "notes":  "本地辨識加速約 16 倍（結果不變）；黃綠底題框動畫期間追蹤不再中斷；送出前備援改為先核對題框與倒數；連續性中斷與倒數讀取不一致不再卡整題；依實際辨識時間保留回合尾端；判定與紀錄改進",
+                   "version":  "1.0.0.18",
+                   "downloadUrl":  "https://github.com/s981738/DZ5-updates/releases/download/v1.0.0.18/DZ5-1.0.0.18.zip",
+                   "sha256":  "E41A0A407C19C507A1408080177DDF7EEB2AC372E2B040DFEEA00A2222B98939",
+                   "notes":  "送出後同一題還在原位（答案沒送進遊戲，例如外部腳本按鍵打斷輸入）就重新點輸入框、清除後重打，最多 2 次；送出後題框留在原位超過 3 秒判定記未定；answer.json 記重打次數",
                    "mandatory":  false
                }
 }
