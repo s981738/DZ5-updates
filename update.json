@@ -3,10 +3,10 @@
     "packageType":  "zip",
     "mainExe":  "DZ5.exe",
     "stable":  {
-                   "version":  "1.0.0.25",
-                   "downloadUrl":  "https://github.com/s981738/DZ5-updates/releases/download/v1.0.0.25/DZ5-1.0.0.25.zip",
-                   "sha256":  "02A860998DEAE48A2E0A7CC9E0A25D76696F0F6674CC1B1E1D429728EAD2D1B7",
-                   "notes":  "測試更新提示用（內容與 1.0.0.24 相同）",
+                   "version":  "1.0.0.26",
+                   "downloadUrl":  "https://github.com/s981738/DZ5-updates/releases/download/v1.0.0.26/DZ5-1.0.0.26.zip",
+                   "sha256":  "838F82E4707DD0CD4A5C124F4C26D29F4F9E1AE40CB6EE2A5A159F73B47D82D5",
+                   "notes":  "更新檢查間隔由 20 分鐘改成 5 分鐘",
                    "mandatory":  false
                }
 }
