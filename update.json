@@ -3,10 +3,10 @@
     "packageType":  "zip",
     "mainExe":  "DZ5.exe",
     "stable":  {
-                   "version":  "1.0.0.30",
-                   "downloadUrl":  "https://github.com/s981738/DZ5-updates/releases/download/v1.0.0.30/DZ5-1.0.0.30.zip",
-                   "sha256":  "F0F715A3BB7BD6465B056C0B9017229F3358BA3C9C316FAB180939C1D504A7E2",
-                   "notes":  "彩虹測謊：點擊 5 次的畫面一出現就開始錄影；外部腳本 10 秒內沒點掉時 DZ5 自動補點 5 下（最多 3 次，需勾選自動輸入）。監控診斷：擷取畫面失敗與恢復會寫日誌、每 30 分鐘一行監控摘要、新增「漏題回報」按鈕可保存最近 10～60 分鐘的畫面。",
+                   "version":  "1.0.0.31",
+                   "downloadUrl":  "https://github.com/s981738/DZ5-updates/releases/download/v1.0.0.31/DZ5-1.0.0.31.zip",
+                   "sha256":  "3F1C3469EB010AF8F56BCE0F91343E1E056CCC4F61343BAA6409275A9E978F86",
+                   "notes":  "修正彩虹測謊的自動補點：點擊畫面每點一下會換位置，改成點一下就重新找位置再點（1.0.0.30 是在同一個位置連點，補不完）。外部腳本 10 秒內沒點完時才補點，需勾選自動輸入。",
                    "mandatory":  false
                }
 }
