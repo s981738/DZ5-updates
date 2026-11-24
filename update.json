@@ -3,10 +3,10 @@
     "packageType":  "zip",
     "mainExe":  "DZ5.exe",
     "stable":  {
-                   "version":  "1.0.0.24",
-                   "downloadUrl":  "https://github.com/s981738/DZ5-updates/releases/download/v1.0.0.24/DZ5-1.0.0.24.zip",
-                   "sha256":  "B85FFFE1EF517E2E14394671BABCB6DE2C9EBA02C3515D9780A6933671403775",
-                   "notes":  "有新版時跳出彈窗提示（不擋操作；同一版只跳一次），並保留橘色閃爍按鈕與每 20 分鐘自動檢查",
+                   "version":  "1.0.0.25",
+                   "downloadUrl":  "https://github.com/s981738/DZ5-updates/releases/download/v1.0.0.25/DZ5-1.0.0.25.zip",
+                   "sha256":  "02A860998DEAE48A2E0A7CC9E0A25D76696F0F6674CC1B1E1D429728EAD2D1B7",
+                   "notes":  "測試更新提示用（內容與 1.0.0.24 相同）",
                    "mandatory":  false
                }
 }
