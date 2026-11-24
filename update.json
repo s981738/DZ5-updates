@@ -3,10 +3,10 @@
     "packageType":  "zip",
     "mainExe":  "DZ5.exe",
     "stable":  {
-                   "version":  "1.0.0.32",
-                   "downloadUrl":  "https://github.com/s981738/DZ5-updates/releases/download/v1.0.0.32/DZ5-1.0.0.32.zip",
-                   "sha256":  "9BD93E3C45AD8AF6693854318B4D0604E1B3F34E3961AA9C882B4A91367F85A7",
-                   "notes":  "新增彩虹測謊點擊畫面「斜版」的偵測：面板斜約 22 度、鋸齒底的新樣式，原本完全認不出來（11/24 21:58 漏題）。認到斜版後最多等 4 秒，外部腳本沒點掉就由本程式補點（需勾選自動輸入）。",
+                   "version":  "1.0.0.33",
+                   "downloadUrl":  "https://github.com/s981738/DZ5-updates/releases/download/v1.0.0.33/DZ5-1.0.0.33.zip",
+                   "sha256":  "CE6DEC73684B00F34781A70468B60D582F1441FB2C1984475A8816C702828F2B",
+                   "notes":  "修正題框出現在畫面最下面時整題沒被偵測到（11/25 00:30 漏題）：以前寬畫面只掃到 y\u003c650，現在掃到畫面底部。",
                    "mandatory":  false
                }
 }
