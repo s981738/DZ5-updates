@@ -3,10 +3,10 @@
     "packageType":  "zip",
     "mainExe":  "DZ5.exe",
     "stable":  {
-                   "version":  "1.0.0.23",
-                   "downloadUrl":  "https://github.com/s981738/DZ5-updates/releases/download/v1.0.0.23/DZ5-1.0.0.23.zip",
-                   "sha256":  "83780158EB2E8D3B4EB02438CA5E17B9C89F928430F7DA919C1CF99C643518B2",
-                   "notes":  "有新版時醒目提示（橘色閃爍按鈕、標題與工作列提示），並每 20 分鐘自動再檢查一次更新",
+                   "version":  "1.0.0.24",
+                   "downloadUrl":  "https://github.com/s981738/DZ5-updates/releases/download/v1.0.0.24/DZ5-1.0.0.24.zip",
+                   "sha256":  "B85FFFE1EF517E2E14394671BABCB6DE2C9EBA02C3515D9780A6933671403775",
+                   "notes":  "有新版時跳出彈窗提示（不擋操作；同一版只跳一次），並保留橘色閃爍按鈕與每 20 分鐘自動檢查",
                    "mandatory":  false
                }
 }
