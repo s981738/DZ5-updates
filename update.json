@@ -3,10 +3,10 @@
     "packageType":  "zip",
     "mainExe":  "DZ5.exe",
     "stable":  {
-                   "version":  "1.0.0.22",
-                   "downloadUrl":  "https://github.com/s981738/DZ5-updates/releases/download/v1.0.0.22/DZ5-1.0.0.22.zip",
-                   "sha256":  "3C884B354EEEF2C34C58F1F752A281468435BEF83A44A7097F603377F2AFB5B4",
-                   "notes":  "第一次連拍加快（共用錄影已抓到的畫面，約 14 秒縮短到 9 秒）；連拍影格時間相同時不再中斷",
+                   "version":  "1.0.0.23",
+                   "downloadUrl":  "https://github.com/s981738/DZ5-updates/releases/download/v1.0.0.23/DZ5-1.0.0.23.zip",
+                   "sha256":  "83780158EB2E8D3B4EB02438CA5E17B9C89F928430F7DA919C1CF99C643518B2",
+                   "notes":  "有新版時醒目提示（橘色閃爍按鈕、標題與工作列提示），並每 20 分鐘自動再檢查一次更新",
                    "mandatory":  false
                }
 }
