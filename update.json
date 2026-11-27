@@ -3,10 +3,10 @@
     "packageType":  "zip",
     "mainExe":  "DZ5.exe",
     "stable":  {
-                   "version":  "1.0.0.36",
-                   "downloadUrl":  "https://github.com/s981738/DZ5-updates/releases/download/v1.0.0.36/DZ5-1.0.0.36.zip",
-                   "sha256":  "10663A1147A45FA7F5A1000622EBEC433E862F5C2DF6B77CE8D3E1D2D1145156",
-                   "notes":  "本地辨識改用新清洗（只清孤立亂點）與 v14.2 模型（挑字改良 locate v5、辨識時每個字位置用 16 個影格），介面與日誌會顯示辨識版本；任務文字不再被誤認成彩虹點擊畫面；虛擬機畫面靜止時不再反覆斷線重連；新增「錄影共用監控連線」選項（預設不勾）。",
+                   "version":  "1.0.0.38",
+                   "downloadUrl":  "https://github.com/s981738/DZ5-updates/releases/download/v1.0.0.38/DZ5-1.0.0.38.zip",
+                   "sha256":  "C4625F9B591A0FBC22D0BBC86D44750A4E190C86FE7F15B6E62660DB2B519D5B",
+                   "notes":  "彩虹點擊畫面新增通用文字偵測（認得沒見過的新樣式，例如半透明星形面板），外部腳本沒點時由 DZ5 自動補點，補點後把游標移開；通用偵測的第一輪補點要分數夠高或持續出現才點，減少誤點。打完答案先核對輸入框，被其他按鍵打亂就清掉重打（不會把輸入框游標當成多打的字），之後一律送出 ENTER。回合尾端時間不夠時改用短連拍。MKS 日誌裡的測謊、自動回圖等行會抄進 DZ5 日誌（只記錄）。",
                    "mandatory":  false
                }
 }
