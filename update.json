@@ -3,10 +3,10 @@
     "packageType":  "zip",
     "mainExe":  "DZ5.exe",
     "stable":  {
-                   "version":  "1.0.0.39",
-                   "downloadUrl":  "https://github.com/s981738/DZ5-updates/releases/download/v1.0.0.39/DZ5-1.0.0.39.zip",
-                   "sha256":  "F50DCD64E8F9886138B4AB7E9F553ABAE50B1E615C93778D7390A6F66101C4F3",
-                   "notes":  "主視窗介面改版：深色主題、分頁版面（日誌、連線與監控、辨識、錄影、進階與測試），所有設定與功能保留。上方狀態列顯示監控狀態與時間、VNC 連線、辨識來源與版本、更新按鈕；「目前題目」顯示題目圖、答案與對錯，另有本次答題與答對統計。視窗可以拉大，開程式較快，畫面上的日誌只留最近一段（完整內容在執行日誌檔）。",
+                   "version":  "1.0.0.40",
+                   "downloadUrl":  "https://github.com/s981738/DZ5-updates/releases/download/v1.0.0.40/DZ5-1.0.0.40.zip",
+                   "sha256":  "4FCA7DCD051F177A2FEE17C91BF906C97F53CA97CD4417A77F731DF43C67F8F0",
+                   "notes":  "本地辨識時「影格測試」按鈕改名為「圖片測試」；火眼餘額的字色改成深色主題的顏色，比較看得清楚。",
                    "mandatory":  false
                }
 }
