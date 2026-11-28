@@ -3,10 +3,10 @@
     "packageType":  "zip",
     "mainExe":  "DZ5.exe",
     "stable":  {
-                   "version":  "1.0.0.40",
-                   "downloadUrl":  "https://github.com/s981738/DZ5-updates/releases/download/v1.0.0.40/DZ5-1.0.0.40.zip",
-                   "sha256":  "4FCA7DCD051F177A2FEE17C91BF906C97F53CA97CD4417A77F731DF43C67F8F0",
-                   "notes":  "本地辨識時「影格測試」按鈕改名為「圖片測試」；火眼餘額的字色改成深色主題的顏色，比較看得清楚。",
+                   "version":  "1.0.0.41",
+                   "downloadUrl":  "https://github.com/s981738/DZ5-updates/releases/download/v1.0.0.41/DZ5-1.0.0.41.zip",
+                   "sha256":  "E44BD22DD7B54529A066374E0328D44CF56074F2BF194E5EE4A34D2538A4500D",
+                   "notes":  "程式檔裡不再留開發電腦的資料夾路徑（拿掉找訓練專案的固定備用路徑、自我測試裡的範例路徑，建置時把原始碼與偵錯檔路徑換成相對路徑）。功能不變。",
                    "mandatory":  false
                }
 }
